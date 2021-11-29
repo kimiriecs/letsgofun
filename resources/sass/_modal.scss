@@ -1,0 +1,12 @@
+.my-modal-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: url("../images/bg-image-15.jpg");
+  filter: blur(25px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

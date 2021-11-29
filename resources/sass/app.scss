@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//Modal
+@import 'modal';
+
+//Form
+@import 'form';
+
+//AOS
+@import '~aos/src/sass/aos';
+
+* {
+    font-family: $font-family-sans-serif;
+}
